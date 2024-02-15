@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/cataaptr/cataaptr/blob/main/jpg/assembly.png" title="Assembly" alt="Assembly" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/cataaptr/cataaptr/blob/main/jpg/assembly2.png" title="Assembly" alt="Assembly" width="40" height="40"/>&nbsp;
 </div>
 
 **Database:** 
 <div>
-  <img src="https://github.com/cataaptr/cataaptr/blob/main/jpg/sql.webp" title="DB" alt="DB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/cataaptr/cataaptr/blob/main/jpg/sql.logo" title="DB" alt="DB" width="40" height="40"/>&nbsp;
 </div>
 
 **Operating systems:** 
@@ -37,3 +37,22 @@ Here are some ideas to get you started:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
+
+**Others: **
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="SQLD" alt="SQLD" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="APEX" alt="APEX" width="40" height="40"/>&nbsp;
+</div>
+
+### 🛠️ Skills
+- Accounting
+- Statistics
+- Marketing
+- Economic cybernetics
+- Microeconomics
+- Macroeconomics
+- Management
+- Finance
+
+### 📫 Contact
+For a quick response, DM me on [Instagram](https://www.instagram.com/cataaptr/) or [LinkedIn](https://www.linkedin.com/in/emanuela-c%C4%83t%C4%83lina-apetroaei-894a67265/).
