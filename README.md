@@ -18,12 +18,13 @@ Here are some ideas to get you started:
 ###  📦 Toolbox
 **Backend Development:** 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="LINUX" alt="LINUX" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
 </div>
 
 **Database:** 
 <div>
-  <img src="C:\Users\HP\Desktop\sql.webp" title="DB" alt="DB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/cataaptr/cataaptr/blob/main/jpg/sql.webp" title="DB" alt="DB" width="40" height="40"/>&nbsp;
 </div>
 
 **Operating systems:** 
