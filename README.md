@@ -38,10 +38,16 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
 
-**Others: **
+ **Others:**
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="SQLD" alt="SQLD" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="APEX" alt="APEX" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/cataaptr/cataaptr/blob/main/jpg/apex.jpg" title="APEX" alt="APEX" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/cataaptr/cataaptr/blob/main/jpg/apex.jpg" title="VS" alt="VS" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/cataaptr/cataaptr/blob/main/jpg/apex.jpg" title="Putty" alt="Putty" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/cataaptr/cataaptr/blob/main/jpg/apex.jpg" title="DOSBOX" alt="DOSBOX" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/cataaptr/cataaptr/blob/main/jpg/apex.jpg" title="NotepadPlusPlus" alt="NotepadPlusPlus" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/cataaptr/cataaptr/blob/main/jpg/apex.jpg" title="Atom" alt="Atom" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/cataaptr/cataaptr/blob/main/jpg/apex.jpg" title="CodeBlocks" alt="CodeBlocks" width="40" height="40"/>&nbsp;
 </div>
 
 ### 🛠️ Skills
