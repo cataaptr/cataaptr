@@ -60,5 +60,11 @@ Here are some ideas to get you started:
 - Management
 - Finance
 
+### :fire: My Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=cataaptr&theme=great-gatsby)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cataaptr&layout=compact&theme=great-gatsby)
+
+
 ### 📫 Contact
 For a quick response, DM me on [Instagram](https://www.instagram.com/cataaptr/) or [LinkedIn](https://www.linkedin.com/in/emanuela-c%C4%83t%C4%83lina-apetroaei-894a67265/).
