@@ -1,6 +1,5 @@
 ### Hey, I'm Catalina👋
-I'm a 22-year-old developer and I consider myself a traveler in the binary language, because I'm open and interested in learning as many new things as possible.
-<!--
+I'm a 22-year-old developer.
 **cataaptr/cataaptr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
