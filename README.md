@@ -29,6 +29,7 @@ I'm a 22-year-old developer.
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="SQLD" alt="SQLD" width="40" height="40"/>&nbsp;
    <img src="https://github.com/cataaptr/cataaptr/blob/main/jpg/apex.jpg" title="APEX" alt="APEX" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-plain-wordmark.svg" title="Eclipse" alt="Eclipse" width="40" height="40"/>&nbsp;
    <img src="https://github.com/cataaptr/cataaptr/blob/main/jpg/vs2.png" title="VS" alt="VS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/cataaptr/cataaptr/blob/main/jpg/putty1.jpg" title="Putty" alt="Putty" width="40" height="40"/>&nbsp;
    <img src="https://github.com/cataaptr/cataaptr/blob/main/jpg/DOSBox_icon.png" title="DOSBOX" alt="DOSBOX" width="40" height="40"/>&nbsp;
