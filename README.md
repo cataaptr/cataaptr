@@ -8,7 +8,7 @@ I'm a 22-year-old developer.
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
    <img src="https://github.com/cataaptr/cataaptr/blob/main/jpg/assembly2.png" title="Assembly" alt="Assembly" width="40" height="40"/>&nbsp;
 </div>
 
@@ -33,7 +33,7 @@ I'm a 22-year-old developer.
    <img src="https://github.com/cataaptr/cataaptr/blob/main/jpg/apex.jpg" title="APEX" alt="APEX" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-plain-wordmark.svg" title="Eclipse" alt="Eclipse" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij" alt="Intellij" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
    <img src="https://github.com/cataaptr/cataaptr/blob/main/jpg/vs2.png" title="VS" alt="VS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/cataaptr/cataaptr/blob/main/jpg/putty1.jpg" title="Putty" alt="Putty" width="40" height="40"/>&nbsp;
    <img src="https://github.com/cataaptr/cataaptr/blob/main/jpg/DOSBox_icon.png" title="DOSBOX" alt="DOSBOX" width="40" height="40"/>&nbsp;
