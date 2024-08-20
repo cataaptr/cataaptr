@@ -53,7 +53,7 @@ I'm a 22-year-old developer.
 - Finance
 
 ### :fire: My Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=cataaptr&theme=great-gatsby)](https://git.io/streak-stats)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cataaptr&layout=compact&theme=great-gatsby)
 
