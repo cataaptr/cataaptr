@@ -42,7 +42,7 @@ I'm a 22-year-old developer.
    <img src="https://github.com/cataaptr/cataaptr/blob/main/jpg/codeblocks1.png" title="CodeBlocks" alt="CodeBlocks" width="40" height="40"/>&nbsp;
 </div>
 
-### 🛠️ Skills
+### 🛠️ Economic skills
 - Accounting
 - Statistics
 - Marketing
@@ -55,5 +55,5 @@ I'm a 22-year-old developer.
 ### :fire: My Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=cataaptr&theme=great-gatsby)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cataaptr&layout=compact&theme=great-gatsby)
+
 
