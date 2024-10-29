@@ -1,5 +1,5 @@
 ### Hey, I'm Catalina👋
-I'm a 22-year-old developer.
+I'm a 22-year-old developer passionate about cybersecurity. 
 
 ###  📦 Toolbox
 **Backend Development:** 
