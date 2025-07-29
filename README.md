@@ -18,6 +18,7 @@ I'm a 23-year-old developer passionate about cybersecurity.
   <img src="https://github.com/cataaptr/cataaptr/blob/main/jpg/sql.logo" title="DB" alt="DB" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="Sqlalchemy" alt="Sqlalchemy" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="Sqlite" alt="Sqlite" width="40" height="40"/>&nbsp;
 </div>
 
 **Operating systems:** 
