@@ -14,6 +14,11 @@ I'm a 23-year-old developer passionate about cybersecurity.
    <img src="https://github.com/cataaptr/cataaptr/blob/main/jpg/assembly2.png" title="Assembly" alt="Assembly" width="40" height="40"/>&nbsp;
 </div>
 
+**Cybersecurity:** 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kalilinux/kalilinux-plain-wordmark.svg" title="KaliLinux" alt="KaliLinux" width="40" height="40"/>&nbsp;
+</div>
+
 **Database:** 
 <div>
   <img src="https://github.com/cataaptr/cataaptr/blob/main/jpg/sql.logo" title="DB" alt="DB" width="40" height="40"/>&nbsp;
