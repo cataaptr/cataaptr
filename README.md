@@ -34,6 +34,7 @@ I'm a 23-year-old developer passionate about cybersecurity.
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JSS" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/chartjs/chartjs-original-wordmark.svg" title="ChartJS" alt="ChartJS" width="40" height="40"/>&nbsp;
 </div>
 
 **Data Analysis & Data Science:** 
