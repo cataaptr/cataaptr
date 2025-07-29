@@ -44,6 +44,11 @@ I'm a 23-year-old developer passionate about cybersecurity.
    <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-plain-wordmark.svg" title="Streamlit" alt="Streamlit" width="40" height="40"/>&nbsp;
 </div>
 
+**Version Control:** 
+<div>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+</div>
+
  **Others:**
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
