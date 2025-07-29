@@ -17,6 +17,11 @@ I'm a 23-year-old developer passionate about cybersecurity.
 **Cybersecurity:** 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kalilinux/kalilinux-plain-wordmark.svg" title="KaliLinux" alt="KaliLinux" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/cataaptr/cataaptr/blob/main/jpg/john2.png" title="JohnTheRipper" alt="JohnTheRipper" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/cataaptr/cataaptr/blob/main/jpg/hydra3.png" title="Hydra" alt="Hydra" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/cataaptr/cataaptr/blob/main/jpg/dvwa2.png" title="DVWA" alt="DVWA" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/cataaptr/cataaptr/blob/main/jpg/tcp2.png" title="TCPDUMP" alt="TCPDUMP" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/cataaptr/cataaptr/blob/main/jpg/meta.png" title="Metaspoitable2" alt="Metaspoitable2" width="40" height="40"/>&nbsp;
 </div>
 
 **Database:** 
@@ -59,6 +64,7 @@ I'm a 23-year-old developer passionate about cybersecurity.
  **Others:**
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/cataaptr/cataaptr/blob/main/jpg/vmware2.png" title="Vmware" alt="Vmware" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="SQLD" alt="SQLD" width="40" height="40"/>&nbsp;
    <img src="https://github.com/cataaptr/cataaptr/blob/main/jpg/apex.jpg" title="APEX" alt="APEX" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-plain-wordmark.svg" title="Eclipse" alt="Eclipse" width="40" height="40"/>&nbsp;
