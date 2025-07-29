@@ -34,6 +34,8 @@ I'm a 23-year-old developer passionate about cybersecurity.
 
  **Others:**
 <div>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="SQLD" alt="SQLD" width="40" height="40"/>&nbsp;
    <img src="https://github.com/cataaptr/cataaptr/blob/main/jpg/apex.jpg" title="APEX" alt="APEX" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-plain-wordmark.svg" title="Eclipse" alt="Eclipse" width="40" height="40"/>&nbsp;
