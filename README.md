@@ -17,7 +17,7 @@ I'm a 23-year-old developer passionate about cybersecurity.
 **Cybersecurity:** 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kalilinux/kalilinux-plain-wordmark.svg" title="KaliLinux" alt="KaliLinux" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/cataaptr/cataaptr/blob/main/jpg/john2.png" title="JohnTheRipper" alt="JohnTheRipper" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/cataaptr/cataaptr/blob/main/jpg/johnnn.png" title="JohnTheRipper" alt="JohnTheRipper" width="40" height="40"/>&nbsp;
    <img src="https://github.com/cataaptr/cataaptr/blob/main/jpg/hydra3.png" title="Hydra" alt="Hydra" width="40" height="40"/>&nbsp;
    <img src="https://github.com/cataaptr/cataaptr/blob/main/jpg/dvwa2.png" title="DVWA" alt="DVWA" width="40" height="40"/>&nbsp;
    <img src="https://github.com/cataaptr/cataaptr/blob/main/jpg/tcp2.png" title="TCPDUMP" alt="TCPDUMP" width="40" height="40"/>&nbsp;
