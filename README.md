@@ -39,6 +39,7 @@ I'm a 23-year-old developer passionate about cybersecurity.
    <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij" alt="Intellij" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
    <img src="https://github.com/cataaptr/cataaptr/blob/main/jpg/vs2.png" title="VS" alt="VS" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
     <img src="https://github.com/cataaptr/cataaptr/blob/main/jpg/putty1.jpg" title="Putty" alt="Putty" width="40" height="40"/>&nbsp;
    <img src="https://github.com/cataaptr/cataaptr/blob/main/jpg/DOSBox_icon.png" title="DOSBOX" alt="DOSBOX" width="40" height="40"/>&nbsp;
    <img src="https://github.com/cataaptr/cataaptr/blob/main/jpg/notepadIcon.png" title="NotepadPlusPlus" alt="NotepadPlusPlus" width="40" height="40"/>&nbsp;
